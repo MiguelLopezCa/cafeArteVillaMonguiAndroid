@@ -4,4 +4,20 @@
     <string name="contraseña">Contraseña</string>
     <string name="ingresar">Ingresar</string>
     <string name="publicidad">Siguenos en</string>
+    <string name="intentario">Inventario Cafe Villa Mongui</string>
+    <string name="producto">Producto</string>
+    <string name="entrada">Entradas</string>
+    <string name="salidas">Salidas</string>
+    <string name="stock">Stock</string>
+    <string name="reporte">Reporte</string>
+    <string name="proveedores">Proveedores</string>
+    <string name="nit">Nit</string>
+    <string name="nombre">Proveedor</string>
+    <string name="accion">Acciones</string>
+    <string name="agregar">Agregar </string>
+    <string name="crearProveedor">Crear Proveedor </string>
+    <string name="eliminar">Eliminar </string>
+    <string name="modificar">Modificar </string>
+    <string name="anterior">Anterior </string>
+
 </resources>
