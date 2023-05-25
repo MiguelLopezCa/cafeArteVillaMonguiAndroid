@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Proveedores" android:id="@+id/proveedoresID"/>
+    <item android:title="Entradas" android:id="@+id/entradasID"/>
+    <item android:title="Salidas" android:id="@+id/salidasID"/>
+    <item android:title="Inventario" android:id="@+id/inventarioID"/>
+</menu>
